@@ -27,3 +27,6 @@ npm start
 https://github.com/ID00010111/HRapplication.git
 
 ## Link to application on Glitch:
+
+## Notification
+As a database for this project there was used MongoDB, for this reason it is highly recommended to run this application with a proper IP provider. Otherwise, the application might not work.
