@@ -24,6 +24,6 @@ npm start
 
 	
 ## Link to GitHub repository:
-
+https://github.com/ID00010111/HRapplication.git
 
 ## Link to application on Glitch:
